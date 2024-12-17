@@ -1,0 +1,5 @@
+﻿  lab10.cpp
+C:\Users\23\OneDrive\Рабочий стол\lab10\lab10\lab10.cpp(7,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+C:\Users\23\OneDrive\Рабочий стол\lab10\lab10\lab10.cpp : message : см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+C:\Users\23\OneDrive\Рабочий стол\lab10\lab10\lab10.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab10.vcxproj -> C:\Users\23\OneDrive\Рабочий стол\lab10\Debug\lab10.exe
